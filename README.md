@@ -1,3 +1,6 @@
+NOTE!:
+	This fork aims at implementing Ruby 1.9.3-p194 into the windows version of the railsinstaller. This is not yet done.
+
 # RailsInstaller
 
 Rails development environment installer for Windows.
